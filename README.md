@@ -1,6 +1,7 @@
-# any-conversion
-Console converting from ANY numerical system to ANY chosen (40 is the max still :thonk:)
+# any-conversion & dec-conversion
+Console converting from ANY numerical system to ANY chosen (max 36 | 40)
+or from ANY numerical system to 10s.
 
-#UPD: Merged the other 'dec-conversion' repo with this one.
+#1-day: Merged the other 'dec-conversion' repo with this one.
 > 'Any...' converts any-to-any
 > 'Dec...' converts any-to-10s
